@@ -1,6 +1,6 @@
 {
   "name": "@packaged-ui/ie-compat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "repository": "git@github.com:packaged-ui/ie-compat",
   "author": "Tom Kay <oridan82@gmail.com>",
