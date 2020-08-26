@@ -6,7 +6,8 @@ import closest from 'element-closest';
 import raf from 'raf';
 import 'mutationobserver-shim';
 import 'formdata-polyfill';
-import 'ie11-custom-properties';
+import 'set-immediate';
+import './polyfills/ie11CusomProperties';
 
 raf.polyfill(window);
 

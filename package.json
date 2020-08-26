@@ -18,6 +18,7 @@
     "formdata-polyfill": "^3.0.20",
     "ie11-custom-properties": "^4.1.0",
     "mutationobserver-shim": "^0.3.7",
-    "raf": "^3.4.1"
+    "raf": "^3.4.1",
+    "set-immediate": "^0.1.1"
   }
 }
